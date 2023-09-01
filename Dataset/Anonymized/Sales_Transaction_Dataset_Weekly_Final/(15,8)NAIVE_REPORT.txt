@@ -1,0 +1,5 @@
+*****************************************************************************************************
+Report of (15,8)NAIVE_REPORT.txt with K=15, P=8, PAA=5, MAX_LEVEL=4
+Total time passed 16.01 
+The table pattern loss is 695.87 
+The table value loss is 9623.95 

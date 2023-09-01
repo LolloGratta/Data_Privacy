@@ -1,0 +1,10 @@
+*****************************************************************************************************
+Report of (15,5)KAPRA_REPORT.txt with K=15, P=5, PAA=5, MAX_LEVEL=4
+Total time occured 5.98s 
+Phase 1: Create-tree phase lasted 3.08, 52% 
+Phase 2: Recycle bad-leaves phase  lasted 0.01, 0% 
+Phase 3.1: Top-down approach phase 0.51, 9% 
+Phase 3.2: Group formation phase 2.38, 40% 
+The average pattern level is: 3.2 
+The table pattern loss is 147.43 
+The table value loss is 13703.34 
