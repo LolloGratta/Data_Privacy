@@ -12,5 +12,6 @@ The dataset I used is the exoTrain reduced to 2000 rows and 1000 columns.
 
 # Anonymized
 
-After running the main program <a href="../kp-anonymity.py">kp-anonymity.py</a> all the results(.csv + report.txt) will be inserted in Anonymized/the_name_of_the_dataset_you_used, i.e <a href="./Anonymized/exoStars">./Anonymized/exoStars</a>
+After running the main program <a href="../kp-anonymity.py">kp-anonymity.py</a> all the results(.csv + report.txt) will be inserted in Anonymized/the_name_of_the_dataset_you_used, i.e <a href="./Anonymized/exoStars">./Anonymized/exoStars</a> <br>
+The folder already contains all the results of my experiments.
 
